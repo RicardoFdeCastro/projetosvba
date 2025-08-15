@@ -3,7 +3,7 @@ sistemas criados em VBA
 
 Imagens do projeto Sistema PDV
 
-<img height="300" alt="captura2" src="https://github.com/user-attachments/assets/a4cdcaa1-da02-47e9-bd0a-6a7d02e00ff1" />
+<img height="300" alt="captura2" src="https://github.com/user-attachments/assets/a4cdcaa1-da02-47e9-bd0a-6a7d02e00ff1" /><br>
 <img height="300" alt="captura3" src="https://github.com/user-attachments/assets/5486e653-6e75-43ca-b0ce-059bf33c9a33" />
 
 
